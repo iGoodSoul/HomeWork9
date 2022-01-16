@@ -1,4 +1,4 @@
-package task4asterisk;
+package com.task4asterisk;
 
 public class Main {
     public static void main(String[] args) {

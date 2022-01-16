@@ -1,4 +1,4 @@
-package task4asterisk;
+package com.task4asterisk;
 
 import java.util.Arrays;
 
