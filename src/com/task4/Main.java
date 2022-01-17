@@ -12,6 +12,7 @@ public class Main {
         intArray[0] = 2;
         intArray[1] = 4;
 
-        task4.insertAll(text,strArray,intArray);
+        task4.insertAll(text,strArray,intArray); //task 4
+        task4.insertAllasterisk(text,strArray,intArray); // task4*
     }
 }
